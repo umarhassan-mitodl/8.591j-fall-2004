@@ -23,7 +23,6 @@
     "website": "8-591j-systems-biology-fall-2004"
   },
   "course_title": "Systems Biology",
-  "hide_download": true,
   "course_description": "This course introduces the mathematical modeling techniques needed to address key questions in modern biology. An overview of modeling techniques in molecular biology and genetics, cell biology and developmental biology is covered. Key experiments that validate mathematical models are also discussed, as well as molecular, cellular, and developmental systems biology, bacterial chemotaxis, genetic oscillators, control theory and genetic networks, and gradient sensing systems. Additional specific topics include: constructing and modeling of genetic networks, lambda phage as a genetic switch, synthetic genetic switches, circadian rhythms, reaction diffusion equations, local activation and global inhibition models, center finding networks, general pattern formation models, modeling cell-cell communication, quorum sensing, and finally, models for Drosophila development.\n",
   "department_numbers": [
     "8",
@@ -36,7 +35,6 @@
     "content": "88e53b51-dfb8-3156-0fe3-1fbf300e9f09",
     "website": "8-591j-systems-biology-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

@@ -4,8 +4,6 @@ description: Slides from the lecture presentation.
 file: /courses/8-591j-systems-biology-fall-2004/fbd46fdf66a5e1ceb1c1528e0b3a64dc_l25_notes.pdf
 file_size: 51133
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: MATLAB? Code File associated with the Lecture Notes.
 file: /courses/8-591j-systems-biology-fall-2004/36f8168aba576275ca4625559443409c_CodeI6.m
 file_size: 307
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

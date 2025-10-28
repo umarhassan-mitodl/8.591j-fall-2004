@@ -4,8 +4,6 @@ description: MATLAB code file.
 file: /courses/8-591j-systems-biology-fall-2004/626a1a3df5148201097f7973bd68b226_narang.m
 file_size: 3944
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

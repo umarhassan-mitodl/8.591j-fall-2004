@@ -4,8 +4,6 @@ description: Homework assignment consisting of 4 problems.
 file: /courses/8-591j-systems-biology-fall-2004/2c35d2493f3daf7674142a3bbc261e0d_ps3.pdf
 file_size: 48014
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

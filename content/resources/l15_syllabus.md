@@ -4,8 +4,6 @@ description: Review notes of the topics covered in class.
 file: /courses/8-591j-systems-biology-fall-2004/18c3bfbf2ca3b54aff74e343785e664a_l15_syllabus.pdf
 file_size: 144196
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: MATLAB code file.
 file: /courses/8-591j-systems-biology-fall-2004/73484f2a4c6b06c564349ed94ecc4f7d_CodeI1_v2.m
 file_size: 512
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
